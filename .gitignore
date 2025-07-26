@@ -1,0 +1,33 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
+.venv/
+*.env
+
+# VS Code files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
+*.parquet
+
+# Large model files
+*.pkl
+*.h5
+*.joblib
+
+# Conda files
+*.conda
+*.tar.bz2
