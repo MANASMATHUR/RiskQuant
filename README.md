@@ -28,8 +28,4 @@ RiskQuant is a full-fledged Machine Learning project built to analyze and visual
 
 pip install -r requirements.txt
 
-
-
-```bash
-
 jupyter notebook
