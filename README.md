@@ -24,10 +24,10 @@ RiskQuant is a full-fledged Machine Learning project built to analyze and visual
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
-   bash
+  ''' bash'''
    Copy code
     git clone https://github.com/MANASMATHUR/RiskQuant.git
-   bash
+  ''' bash'''
    Copy code
   cd RiskQuant
    
