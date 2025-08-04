@@ -22,13 +22,13 @@ RiskQuant is a full-fledged Machine Learning project built to analyze and visual
    ```bash
    git clone https://github.com/MANASMATHUR/RiskQuant.git
    cd RiskQuant
-2. **Install dependencies**
+2. **Install dependencies and Launch Jupyter Notebook**
 
 ```bash
 
 pip install -r requirements.txt
 
-3. **Launch Jupyter Notebooks**
+
 
 ```bash
 
